@@ -1,4 +1,4 @@
-package com.ycc.web.domain;
+package com.ycc.domain;
 
 import java.io.Serializable;
 import java.sql.Timestamp;
