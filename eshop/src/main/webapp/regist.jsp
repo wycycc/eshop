@@ -82,7 +82,7 @@
   			</tr>
   			<tr>
   				<td><input type="submit" value="注册用户"/></td>
-  				<td><img src="/ValiImg" onclick="changeImg(this)" style="cursor: pointer;"/></td>
+  				<td><img src="${pageContext.request.contextPath}/ValiImg" onclick="changeImg(this)" style="cursor: pointer;"/></td>
   			</tr>
   			
   		</table>
